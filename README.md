@@ -1,2 +1,2 @@
 # Image Scrolling w/ Hand Gestures
-This program allows the user to scroll through a gallery of photos using hand gestures.
+This program allows the user to scroll through a gallery of photos by using hand gestures.
